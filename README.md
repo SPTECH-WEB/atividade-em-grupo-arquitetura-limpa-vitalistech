@@ -1,4 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/agYdFiud)
+
+## 👷🏻‍♀️👷🏻‍♂️ Integrantes do Projeto
+
+- Bianca Borges de Souza - RA: 01241081
+- Gustavo Ryuiti Kohatsu - RA: 01241144
+- Lucas de Souza Cancela - RA: 01241086
+- Igor Daniel Mamani Jimenez - RA: 01241053
+- Pedro Henrique Franchi de Jesus - RA: 01241069
+- Rafael Sung Min Lee - RA: 01241004
+
+---
+
 # 📊 API de Avaliação de Risco de Crédito
 
 Este projeto é uma prova de conceito para uma API REST que permite o cadastro de clientes e a avaliação automática de risco de crédito, baseada em critérios simples como renda e idade.
