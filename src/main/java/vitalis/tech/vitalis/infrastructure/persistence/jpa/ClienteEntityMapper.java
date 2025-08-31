@@ -6,9 +6,6 @@ import vitalis.tech.vitalis.core.domain.cliente.RiscoCliente;
 import vitalis.tech.vitalis.core.domain.valueobject.Cpf;
 import vitalis.tech.vitalis.core.domain.valueobject.Email;
 import vitalis.tech.vitalis.core.domain.valueobject.Telefone;
-import vitalis.tech.vitalis.infrastructure.persistence.jpa.ClienteEntity;
-
-import java.util.Objects;
 
 @Component
 public class ClienteEntityMapper {

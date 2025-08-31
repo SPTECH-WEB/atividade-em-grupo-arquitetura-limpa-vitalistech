@@ -29,5 +29,5 @@ public class ClienteRequest {
     public void setIdade(Integer idade) { this.idade = idade; }
 
     public String getProfissao() { return profissao; }
-    public void setProfissao(String profissao) { this.profissao = profissao; }
+    public void setProfissao(String profissao) { this.profissao = profissao;}
 }
