@@ -10,14 +10,55 @@
 - Rafael Sung Min Lee - RA: 01241004
 
 ---
+
 ## 🛠 Divisão de Tarefas
 
-- Bianca Borges: Memoria, ClienteJpaRepository, CadastrarClienteUseCase e Entidade Cliente do core
-- Gustavo Kohatsu: Application, Properties e Command
-- Igor Daniel: ValueObject, Controller da web e Handler
-- Pedro Henrique: bean, ClienteEntity, Exception e ClientePort do Core
-- Lucas Cancela: Mappers, Adapter,RiscoClientePort e UseCase de BuscarCliente
-- Rafael: Dtos, Enum Risco e RiscoClienteService
+* **Bianca Borges** → Persistência em memória, repositório de clientes, caso de uso de cadastro e entidade de domínio.
+* **Gustavo Kohatsu** → Configuração da aplicação, propriedades, inicialização via command e revisão de código.
+* **Igor Daniel** → Modelagem de value objects, controlador REST e tratamento de requisições.
+* **Pedro Henrique** → Definição de entidades, exceções e portas do núcleo da aplicação.
+* **Lucas Cancela** → Mapeamentos, adaptação entre camadas e caso de uso de busca de cliente.
+* **Rafael** → Estruturas de transferência de dados, enumeração de risco e serviço de classificação.
+
+---
+
+## 🚀 Como rodar o projeto localmente
+
+## ✔️ Pré-requisitos
+Antes de começar, você vai precisar ter instalado:
+
+- Java 21
+- IDE (como IntelliJ ou VSCode)
+- Git
+
+# 💻 Passos para rodar em ambiente de desenvolvimento
+
+```
+# Clone o repositório
+
+git clone https://github.com/SPTECH-WEB/atividade-em-grupo-arquitetura-limpa-vitalistech.git
+cd atividade-em-grupo-arquitetura-limpa-vitalistech
+```
+
+### 🖥 A aplicação estará disponível em:
+
+```http://localhost:8080```
+
+# 🛠️ Tecnologias e ferramentas utilizadas
+
+- Java 21
+
+- Spring Boot 3.4.3
+
+- Spring Web
+
+- Spring Data JPA
+
+- Hibernate
+
+- H2 Database (dev)
+
+- Maven
 
 ---
 
