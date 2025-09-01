@@ -2,7 +2,6 @@ package vitalis.tech.vitalis.core.domain.cliente;
 
 import vitalis.tech.vitalis.core.domain.valueobject.Cpf;
 import vitalis.tech.vitalis.core.domain.valueobject.Email;
-import vitalis.tech.vitalis.core.domain.valueobject.RiscoCliente;
 import vitalis.tech.vitalis.core.domain.valueobject.Telefone;
 
 import java.util.Objects;

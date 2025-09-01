@@ -31,7 +31,9 @@ public class ClienteResponse {
         return response;
     }
 
-    public void setRendaMensal(Float rendaMensal) { this.rendaMensal = rendaMensal; }
+    public void setRendaMensal(Float rendaMensal) {
+        this.rendaMensal = rendaMensal;
+    }
     // Getters e Setters
 
 
@@ -109,5 +111,5 @@ public class ClienteResponse {
 
     public void setEstrategiaContato(String estrategiaContato) {
         this.estrategiaContato = estrategiaContato;
-    }
+    }
 }

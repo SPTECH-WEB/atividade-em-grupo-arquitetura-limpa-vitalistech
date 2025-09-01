@@ -7,7 +7,7 @@ import vitalis.tech.vitalis.core.application.ports.RiscoClientePort;
 import vitalis.tech.vitalis.core.domain.cliente.Cliente;
 import vitalis.tech.vitalis.core.domain.valueobject.Cpf;
 import vitalis.tech.vitalis.core.domain.valueobject.Email;
-import vitalis.tech.vitalis.core.domain.RiscoCliente;
+import vitalis.tech.vitalis.core.domain.cliente.RiscoCliente;
 import vitalis.tech.vitalis.core.domain.valueobject.Telefone;
 
 public class CadastrarClienteUseCase {

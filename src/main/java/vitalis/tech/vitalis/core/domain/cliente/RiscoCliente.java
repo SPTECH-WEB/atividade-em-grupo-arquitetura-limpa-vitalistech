@@ -1,4 +1,4 @@
-package vitalis.tech.vitalis.core.domain.valueobject;
+package vitalis.tech.vitalis.core.domain.cliente;
 
 public enum RiscoCliente {
     ALTO("Alto", 1, "Contato telefônico em até 24h + análise crítica") {
