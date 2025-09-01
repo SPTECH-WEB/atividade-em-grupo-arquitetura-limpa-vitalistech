@@ -10,6 +10,16 @@
 - Rafael Sung Min Lee - RA: 01241004
 
 ---
+## 🛠 Divisão de Tarefas
+
+- Bianca Borges: Memoria, ClienteJpaRepository, CadastrarClienteUseCase e Entidade Cliente do core
+- Gustavo Kohatsu: Application, Properties e Command
+- Igor Daniel: ValueObject, Controller da web e Handler
+- Pedro Henrique: bean, ClienteEntity, Exception e ClientePort do Core
+- Lucas Cancela: Mappers, Adapter,RiscoClientePort e UseCase de BuscarCliente
+- Rafael: Dtos, Enum Risco e RiscoClienteService
+
+---
 
 # 📊 API de Avaliação de Risco de Crédito
 
